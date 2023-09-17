@@ -15,7 +15,7 @@ import streamlit as st
 app = FastAPI()
 
 # Your PAT (Personal Access Token) can be found in the portal under Authentification
-PAT = '7e97c7ac71d849cd8de492b7128ad0fd'
+PAT = ''
 # Specify the correct user_id/app_id pairings
 # Since you're making inferences outside your app's scope
 USER_ID = 'aianytime'
